@@ -1,5 +1,5 @@
 {
-  "name": "hubaishan/phpHijri",
+  "name": "hubaishan/phphijri",
   "version": "0.1.0",
   "type": "library",
   "description": "phpHijri is a PHP library for working with Hijri Calendar dates.",
