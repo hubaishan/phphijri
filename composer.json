@@ -5,7 +5,7 @@
   "description": "phpHijri is a PHP library for working with Hijri Calendar dates.",
   "keywords": ["Calendar", "Hijri", "UmAlQura", "Islamic", "Lunar", "Arabic", "DateTime"],
   "homepage": "http://www.salafitech.net",
-  "license": "LGPLv2.1",
+  "license": "LGPL-2.1-or-later",
   "authors": [
     {
       "name": "Saeed Hubaishan",
